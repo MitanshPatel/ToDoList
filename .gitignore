@@ -1,0 +1,5 @@
+#to hold our connection string n not give username password
+.env
+
+#to not upload node modules to github
+/node_modules
